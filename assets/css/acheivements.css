@@ -62,7 +62,7 @@ body {
 /* Header */
 .page-header {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-    url('/img/photo_2025-03-08_11-59-04.jpg') no-repeat center center; 
+    url('./img/photo_2025-03-08_11-59-04.jpg') no-repeat center center; 
     background-size: cover;
     color: white;
     padding: 8rem 0;
