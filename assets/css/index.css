@@ -66,8 +66,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+/*     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
+                url('img/photo_2025-03-08_11-59-04.jpg') no-repeat center center; */
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-                url('img/photo_2025-03-08_11-59-04.jpg') no-repeat center center;
+                url('https://github.com/yasinputhiyara/mother/blob/main/img/photo_2025-03-08_11-59-04.jpg?raw=true') no-repeat center center;
     background-size: cover;
     color: white;
     overflow: hidden;
